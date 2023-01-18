@@ -1,0 +1,15 @@
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.csproj.AssemblyReference.cache
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.AssemblyInfoInputs.cache
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.AssemblyInfo.cs
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.csproj.CoreCompileInputs.cache
+/Users/wilchec/Projects/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList
+/Users/wilchec/Projects/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.deps.json
+/Users/wilchec/Projects/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.runtimeconfig.json
+/Users/wilchec/Projects/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.dll
+/Users/wilchec/Projects/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.pdb
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.dll
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/refint/ShoppingList.dll
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.pdb
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.genruntimeconfig.cache
+/Users/wilchec/Projects/ShoppingList/ShoppingList/obj/Debug/net6.0/ref/ShoppingList.dll

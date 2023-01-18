@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D8FCC269-F86F-42C9-ABD1-E5438264FAB8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingList/Program.cs">
+    <Files>
+      <File FileName="ShoppingList/Program.cs" Line="7" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingList" expanded="True">
+            <Node name="ShoppingList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShoppingList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
